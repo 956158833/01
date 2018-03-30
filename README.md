@@ -1,5 +1,4 @@
-# 一键部署 v2ray 到 heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+# 一键部署 v2ray 到 heroku[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 #客户端配置 client_config.json, 
 
