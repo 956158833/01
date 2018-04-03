@@ -16,8 +16,6 @@ nslookup  us-east-1-a.route.herokuapp.com 8.8.8.8
 
 https://github.com/onplus/v2hero/
 
-https://toutyrater.github.io/
-
 https://www.v2ray.com/
 
 #PC端
