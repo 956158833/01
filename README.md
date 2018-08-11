@@ -1,3 +1,4 @@
+# 失效，停止部署，之前部署的暂时可用，不要更新
 # 一键部署 v2ray 到 heroku[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 #客户端配置 client_config.json, 
